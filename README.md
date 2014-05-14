@@ -1,2 +1,2 @@
-ImgIn-web
+Website using ImgIn gem to find images.
 =========
