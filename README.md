@@ -1,3 +1,3 @@
-ImgIn Website 
+ImgIn Website Test Repository
 =========
-This site demonstrates the ImgIn gem and allows users to quickly find appropriate placeholder images when building a webite.
+Test files. Initial CSS and HTML for website.
